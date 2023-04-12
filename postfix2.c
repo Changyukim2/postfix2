@@ -247,5 +247,4 @@ int main(void) {
     printf("\n");
     printf("°è»ê °ª : %d \n", result);
 
-
 }
